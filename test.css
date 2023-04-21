@@ -1,0 +1,36 @@
+ body {
+     background: black;
+    }
+
+ 
+ .content {
+     background-color: white;
+     width: 350px;
+     height: 40px;
+     border-radius: 10px;
+     font-size: 30px;
+     margin-top: 40px;
+     margin-left: 450px;
+    
+ }
+
+#numbers{
+    margin: 0 auto;
+    text-align: center;
+    word-spacing: 30px;
+}
+
+button {height:50px; 
+    width:50px;
+    border:none;
+    border-radius: 10px;
+    background-color: lightgrey;
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
